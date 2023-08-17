@@ -65,13 +65,13 @@ section {
   height: 500px;
 }
 .bg1 {
-  background-image: url(/JMS_OM_SIXTH_PROJECT/Parallex/sport-1.jpg);
+  background-image: url(Parallax/sport-1.jpg);
 }
 .bg2 {
-  background-image: url(/JMS_OM_SIXTH_PROJECT/Parallex/sport-2.jpg);
+  background-image: url(Parallax/sport-2.jpg);
 }
 .bg3 {
-  background-image: url(/JMS_OM_SIXTH_PROJECT/Parallex/sport-3.jpg);
+  background-image: url(Parallax/sport-3.jpg);
 }
 
 .desc {
